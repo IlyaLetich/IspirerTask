@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ispirer.Test.FileRecorder">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ispirer_Test_FileRecorder</output-path>
+    <root id="archive" name="Ispirer.Test.FileRecorder.jar">
+      <element id="module-output" name="FileRecoder" />
+    </root>
+  </artifact>
+</component>
